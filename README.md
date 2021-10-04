@@ -1,6 +1,12 @@
 ### Hi there, l am Sadig Hasanzade 👋
 
 ## l am an Android developer.
+
+<p>
+l study computer science at Khazar University. l have strong algorithm and mathematical skills l have worked as back-end developer for start-ups but now
+    l work as Android developer for TayqaTech. l am open to work in start ups or freelance projects. 
+    ENJOY CODING!
+</p>
 ![Sadig’ GitHub stats](https://github-readme-stats.vercel.app/api?username=sadighasanzade&theme=synthwave&show_icons=true&count_private=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadighasanzade&theme=synthwave)
