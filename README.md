@@ -4,7 +4,7 @@
 
 <p>
 l study computer science at Khazar University. l have strong algorithm and mathematical skills. I love learning new things solving problems creating innovative products. Currently
-    l work as Android developer for TayqaTech. l am open to work in start ups or in freelance projects as a Android developer. 
+    l work as an Android developer for TayqaTech. l am open to work in start ups or in freelance projects as an Android developer. 
     ENJOY CODING!
 </p>
 
