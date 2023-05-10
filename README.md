@@ -3,9 +3,13 @@
 ## l am an Android developer.
 
 <p>
-l study computer science at Khazar University. l have strong algorithm and mathematical skills. I love learning new things solving problems creating innovative products. Currently
-    l work as an Android developer for TayqaTech. l am open to work in start ups or in freelance projects as an Android developer. 
-    ENJOY CODING!
+Skilled in Java, Kotlin, Python. 
+Knowledge of Android development with all necessary principles
+Strong analytical thinking skills and fast adapting to any environment.
+Eager to learn new stuffs
+*Bronze medal from National Math Olympiad
+*Golden medal from The Ministry of Education of the Azerbaijan Republic
+*Dean's honour certificate from Khazar University
 </p>
 
 </br>
