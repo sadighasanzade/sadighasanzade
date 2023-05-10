@@ -3,12 +3,12 @@
 ## l am an Android developer.
 
 <p>
-Skilled in Java, Kotlin, Python. 
-Knowledge of Android development with all necessary principles
-Strong analytical thinking skills and fast adapting to any environment.
-Eager to learn new stuffs
-*Bronze medal from National Math Olympiad
-*Golden medal from The Ministry of Education of the Azerbaijan Republic
+Skilled in Java, Kotlin, Python. <br>
+Knowledge of Android development with all necessary principles <br>
+Strong analytical thinking skills and fast adapting to any environment. <br>
+Eager to learn new stuffs <br>
+*Bronze medal from National Math Olympiad <br>
+*Golden medal from The Ministry of Education of the Azerbaijan Republic <br>
 *Dean's honour certificate from Khazar University
 </p>
 
