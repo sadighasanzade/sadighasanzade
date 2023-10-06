@@ -1,6 +1,6 @@
 ## Hi there, l am Sadig Hasanzade 👋
 
-## l am an Android developer.
+## l am a Software Engineer focused on Android development.
 
 <p>
 Skilled in Java, Kotlin, Python. <br>
