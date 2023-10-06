@@ -3,6 +3,7 @@
 ## l am a Software Engineer focused on Android development.
 
 <p>
+I am doing my master degree at Tartu University, Estonia <br>    
 Skilled in Java, Kotlin, Python. <br>
 Knowledge of Android development with all necessary principles <br>
 Strong analytical thinking skills and fast adapting to any environment. <br>
