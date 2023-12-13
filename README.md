@@ -3,11 +3,8 @@
 ## l am a Software Engineer focused on Android development.
 
 <p>
-I am doing my master degree at Tartu University, Estonia and work as an Android developer. <br>    
-Skilled in Java, Kotlin, Python. <br>
-Knowledge of Android development with all necessary principles <br>
-I have strong analytical thinking skills and nice academic background. <br>
-I am always eager to learn new stuffs <br>
+Experienced Android developer with a solid computer science foundation. Worked on various projects, excelling in Java, Kotlin, and Python. Academic achievements highlight a strong balance of theory and practical skills.
+Always better than yesterday's :) <br>
 
 </p>
 
