@@ -26,9 +26,9 @@ Always better than yesterday's :) <br>
 
 <h2>contact me :</h2>
 <br>
-<a href=https://www.linkedin.com/in/sadig-hasanzade-2b7868203>![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> <br>
-<a href=https://www.instagram.com/the___hasanzade>![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the___hasanzade) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadig-hasanzade-2b7868203)
 
     
 
