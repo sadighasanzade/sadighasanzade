@@ -13,7 +13,7 @@ Always better than yesterday's :) <br>
 <a href = www.sadodroid.com> My Website</a>
 
 
-![Sadig’ GitHub stats](https://github-readme-stats.vercel.app/api?username=sadighasanzade&theme=synthwave&show_icons=true&count_private=true)
+![Sadig’ GitHub stats](https://github-readme-stats.vercel.app/api?username=sadighasanzade&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadighasanzade&theme=synthwave) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadighasanzade&theme=synthwave&hide_border=false)<br/>
